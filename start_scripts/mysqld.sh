@@ -1,4 +1,5 @@
 #!/bin/bash
+#author:wsh
 # chkconfig: 2345 40 40
 # description: this is mysqld auto start  
 
