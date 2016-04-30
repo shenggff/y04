@@ -1,2 +1,2 @@
 # y04 share repository
-share your scripts!
+Welcome to share your code !
