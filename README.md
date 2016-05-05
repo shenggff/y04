@@ -12,7 +12,7 @@ git clone https://github.com/JasonNullx/y04.git
 3.checkin your code #提交你的代码
 ```
 git add .
-git commit -m "your reason"
+git commit -m "your reason or describe what you changed" 
 git push
 ```
 
