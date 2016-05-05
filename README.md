@@ -2,14 +2,14 @@
 Welcome to share your code !
 
 ## git basic command
-1. download the code # 下载代码
+1.download the code # 下载代码
 ```
 cd /a/certain/directory #进入某个指定的目录
 git clone https://github.com/JasonNullx/y04.git
 ```
-2. modify the code at your computer
+2.modify the code at your computer
 
-3. checkin your code #提交你的代码
+3.checkin your code #提交你的代码
 ```
 git add .
 git commit -m "your reason"
