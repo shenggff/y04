@@ -16,7 +16,7 @@ git commit -m "your reason or describe what you changed"
 git push
 ```
 
-**PS:** the first time, your should run the following code to setting your account #第一次你可能需要运行下面的代码进行设置
+**PS:** the first time, your should run the following code to set up your account #第一次你可能需要运行下面的代码进行设置
 ```
 #全局设置(在你电脑上的所有提交都会使用下面的配置信息)
 git config --global user.name "your name"
